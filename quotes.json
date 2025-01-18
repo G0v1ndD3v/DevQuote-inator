@@ -1,0 +1,102 @@
+[
+    {
+        "quote": "Premature optimization is the root of all evil.",
+        "author": "Donald Knuth"
+    },
+    {
+        "quote": "The best way to predict the future is to invent it.",
+        "author": "Alan Kay"
+    },
+    {
+        "quote": "The most dangerous phrase in the English language is 'We've always done it this way'.",
+        "author": "Grace Hopper"
+    },
+    {
+        "quote": "There are only two hard things in computer science: cache invalidation and naming things.",
+        "author": "Phil Karlton"
+    },
+    {
+        "quote": "The computer was born to solve problems that did not exist before.",
+        "author": "Bill Gates"
+    },
+    {
+        "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+        "author": "Bill Gates"
+    },
+    {
+        "quote": "The three great virtues of a programmer: laziness, impatience, and hubris.",
+        "author": "Larry Wall"
+    },
+    {
+        "quote": "Code is like humor. When you have to explain it, it’s bad.",
+        "author": "Cory House"
+    },
+    {
+        "quote": "Write tests until fear is transformed into boredom.",
+        "author": "Kent Beck"
+    },
+    {
+        "quote": "Computer Science is no more about computers than astronomy is about telescopes.",
+        "author": "Edsger W. Dijkstra"
+    },
+    {
+        "quote": "Simplicity is prerequisite for reliability.",
+        "author": "Edsger W. Dijkstra"
+    },
+    {
+        "quote": "The computing scientist’s main challenge is not to get confused by the complexities of his own making.",
+        "author": "Edsger W. Dijkstra"
+    },
+    {
+        "quote": "An algorithm must be seen to be believed.",
+        "author": "Donald Knuth"
+    },
+    {
+        "quote": "If you think your users are idiots, only idiots will use it.",
+        "author": "Linus Torvalds"
+    },
+    {
+        "quote": "First, solve the problem. Then, write the code.",
+        "author": "John Johnson"
+    },
+    {
+        "quote": "The function of good software is to make the complex appear to be simple.",
+        "author": "Grady Booch"
+    },
+    {
+        "quote": "The task of the software development team is to engineer the illusion of simplicity.",
+        "author": "Grady Booch"
+    },
+    {
+        "quote": "In God we trust, all others must bring data.",
+        "author": "W. Edwards Deming"
+    },
+    {
+        "quote": "If you can't describe what you are doing as a process, you don't know what you're doing.",
+        "author": "W. Edwards Deming"
+    },
+    {
+        "quote": "Much of the essence of building a program is in fact the debugging of the specification.",
+        "author": "Fred Brooks"
+    },
+    {
+        "quote": "When debugging, novices insert corrective code; experts remove defective code.",
+        "author": "Richard E. Pattis"
+    },
+    {
+        "quote": "In programming the hard part isn’t solving problems, but deciding what problems to solve.",
+        "author": "Paul Graham"
+    },
+    {
+        "quote": "Prolific programmers contribute to certain disaster.",
+        "author": "Niklaus Wirth"
+    },
+    {
+        "quote": "Software gets slower faster than hardware gets faster.",
+        "author": "Niklaus Wirth"
+    },
+    {
+        "quote": "You can’t have great software without a great team, and most software is not great.",
+        "author": "Joel Spolsky"
+    }
+]
