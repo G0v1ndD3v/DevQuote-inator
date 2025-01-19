@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quote Card Template</title>
+    <style>
+        .quote-frame {
+            font-family: 'Courier New', Courier, monospace;
+            background: #1a1a1a;
+            padding: 30px;
+            border: 3px solid #33ff33;
+            max-width: 600px;
+            text-align: center;
+            position: relative;
+        }
+
+        .quote-frame:before {
+            content: '\201C'; /* Opening quote */
+            font-size: 40px;
+            color: #33ff33;
+            position: absolute;
+            top: 10px;
+            left: 10px;
+        }
+
+        .quote-frame:after {
+            content: '\201D'; /* Closing quote */
+            font-size: 40px;
+            color: #33ff33;
+            position: absolute;
+            bottom: 10px;
+            right: 10px;
+        }
+
+        .quote-content, .quote-author {
+            color: #33ff33;
+        }
+
+        .quote-content {
+            font-size: 18px;
+            line-height: 1.5;
+            margin-bottom: 15px;
+        }
+
+        .quote-author {
+            font-size: 16px;
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <div class="quote-frame">
+        <div class="quote-content">"{{quote}}"</div>
+        <div class="quote-author">— {{author}}</div>
+    </div>
+</body>
+</html>
