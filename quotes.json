@@ -114,5 +114,13 @@
     {
         "quote": "Simple things should be simple, complex things should be possible.",
         "author": "Alan Kay"
+    },
+    {
+        "quote": "The greatest performance improvement of all is when a system goes from not-working to working.",
+        "author": "John Ousterhout"
+    },
+    {
+        "quote": "A program that produces incorrect results twice as fast is infinitely slower.",
+        "author": "John Ousterhout"
     }
 ]
