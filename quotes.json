@@ -122,5 +122,9 @@
     {
         "quote": "A program that produces incorrect results twice as fast is infinitely slower.",
         "author": "John Ousterhout"
+    },
+    {
+        "quote": "Fancy algorithms are slow when n is small, and n is usually small.",
+        "author": "Robert Pike"
     }
 ]
