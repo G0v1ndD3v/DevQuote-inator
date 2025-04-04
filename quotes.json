@@ -134,5 +134,9 @@
     {
         "quote": "Cunningham's Law: The best way to get the right answer on the Internet is not to ask a question, it's to post the wrong answer.",
         "author": "Ward Cunningham"
+    },
+    {
+        "quote": "Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.",
+        "author": "Douglas Hofstadter"
     }
 ]
