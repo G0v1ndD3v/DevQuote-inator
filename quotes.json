@@ -138,5 +138,13 @@
     {
         "quote": "Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.",
         "author": "Douglas Hofstadter"
+    },
+    {
+        "quote": "Linus’s Law: Given enough eyeballs, all bugs are shallow.",
+        "author": "Eric S. Raymond"
+    },
+    {
+        "quote": "Zawinski's Law: Every program attempts to expand until it can read mail. Those programs which cannot so expand are replaced by ones which can.",
+        "author": "Jamie Zawinski"
     }
 ]
