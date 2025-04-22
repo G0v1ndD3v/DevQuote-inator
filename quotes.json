@@ -150,5 +150,9 @@
     {
         "quote": "Optimism is an occupational hazard of programming; feedback is the treatment.",
         "author": "Kent Beck"
+    },
+    {
+        "quote": "Walking on water and developing software from a specification are easy if both are frozen.",
+        "author": "Edward V. Berard"
     }
 ]
