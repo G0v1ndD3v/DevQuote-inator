@@ -98,5 +98,105 @@
     {
         "quote": "You can’t have great software without a great team, and most software is not great.",
         "author": "Joel Spolsky"
+    },
+    {
+        "quote": "The cheapest, fastest, and most reliable components are those that aren’t there.",
+        "author": "Gordon Bell"
+    },
+    {
+        "quote": "Adding manpower to a late software project makes it later.",
+        "author": "Fred Brooks"
+    },
+    {
+        "quote": "A picture may be worth a thousand words; a formula is worth a thousand pictures.",
+        "author": "Edsger W. Dijkstra"
+    },
+    {
+        "quote": "Simple things should be simple, complex things should be possible.",
+        "author": "Alan Kay"
+    },
+    {
+        "quote": "The greatest performance improvement of all is when a system goes from not-working to working.",
+        "author": "John Ousterhout"
+    },
+    {
+        "quote": "A program that produces incorrect results twice as fast is infinitely slower.",
+        "author": "John Ousterhout"
+    },
+    {
+        "quote": "Fancy algorithms are slow when n is small, and n is usually small.",
+        "author": "Robert Pike"
+    },
+    {
+        "quote": "What is simplicity? Simplicity is the shortest path to a solution.",
+        "author": "Ward Cunningham"
+    },
+    {
+        "quote": "Cunningham's Law: The best way to get the right answer on the Internet is not to ask a question, it's to post the wrong answer.",
+        "author": "Ward Cunningham"
+    },
+    {
+        "quote": "Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.",
+        "author": "Douglas Hofstadter"
+    },
+    {
+        "quote": "Linus’s Law: Given enough eyeballs, all bugs are shallow.",
+        "author": "Eric S. Raymond"
+    },
+    {
+        "quote": "Zawinski's Law: Every program attempts to expand until it can read mail. Those programs which cannot so expand are replaced by ones which can.",
+        "author": "Jamie Zawinski"
+    },
+    {
+        "quote": "Optimism is an occupational hazard of programming; feedback is the treatment.",
+        "author": "Kent Beck"
+    },
+    {
+        "quote": "Walking on water and developing software from a specification are easy if both are frozen.",
+        "author": "Edward V. Berard"
+    },
+    {
+        "quote": "There are only two kinds of programming languages: the ones people complain about and the ones nobody uses.",
+        "author": "Bjarne Stroustrup"
+    },
+    {
+        "quote": "Computer languages differ not so much in what they make possible, but in what they make easy.",
+        "author": "Larry Wall"
+    },
+    {
+        "quote": "There's only one trick in software, and that is using a piece of software that's already been written.",
+        "author": "Bill Gates"
+    },
+    {
+        "quote": "Success is a lousy teacher. It seduces smart people into thinking they can't lose.",
+        "author": "Bill Gates"
+    },
+    {
+        "quote": "The manager's function is not to make people work, but to make it possible for people to work.",
+        "author": "Tom DeMarco"
+    },
+    {
+        "quote": "Conway's Law: Any organization that designs a system will produce a design whose structure is a copy of the organization's communication structure.",
+        "author": "Melvin Conway"
+    },
+    {
+        "quote": "Gall's Law: A complex system that works is invariably found to have evolved from a simple system that worked.",
+        "author": "John Gall"
+    },
+    {
+        "quote": "Atwood's Law: Any application that can be written in JavaScript, will eventually be written in JavaScript.",
+        "author": "Jeff Atwood"
+    },
+    {
+        "quote": "Simple rules guide innovative, intelligent responses. Comprehensive rules guide rote, routine responses.",
+        "author": "Jim Highsmith"
+    },
+    {
+        "quote": "When project leaders focus on delivery, they add value to projects. When they focus on planning and control, they tend to add overhead.",
+        "author": "Jim Highsmith"
+    },
+    {
+        "quote": "The formula for success is simple: deliver today, adapt tomorrow.",
+        "author": "Jim Highsmith"
     }
 ]
