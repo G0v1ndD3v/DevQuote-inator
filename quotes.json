@@ -186,5 +186,17 @@
     {
         "quote": "Atwood's Law: Any application that can be written in JavaScript, will eventually be written in JavaScript.",
         "author": "Jeff Atwood"
+    },
+    {
+        "quote": "Simple rules guide innovative, intelligent responses. Comprehensive rules guide rote, routine responses.",
+        "author": "Jim Highsmith"
+    },
+    {
+        "quote": "When project leaders focus on delivery, they add value to projects. When they focus on planning and control, they tend to add overhead.",
+        "author": "Jim Highsmith"
+    },
+    {
+        "quote": "The formula for success is simple: deliver today, adapt tomorrow.",
+        "author": "Jim Highsmith"
     }
 ]
