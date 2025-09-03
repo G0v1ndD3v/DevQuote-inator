@@ -198,5 +198,9 @@
     {
         "quote": "The formula for success is simple: deliver today, adapt tomorrow.",
         "author": "Jim Highsmith"
+    },
+    {
+        "quote": "Twelve distinct ways of representing data at the logical level are eleven too many.",
+        "author": "Edgar F. Codd"
     }
 ]
