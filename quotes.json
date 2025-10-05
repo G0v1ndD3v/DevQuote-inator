@@ -206,5 +206,17 @@
     {
         "quote": "The way to get to the top of the heap in terms of developing original research is to be a fool, because only fools keep trying.",
         "author": "Martin Hellman"
+    },
+    {
+        "quote": "Any sufficiently advanced bug is indistinguishable from a feature.",
+        "author": "Rich Kulawiec"
+    },
+    {
+        "quote": "Good design adds value faster than it adds cost.",
+        "author": "Thomas C. Gale"
+    },
+    {
+        "quote": "Software and cathedrals are much the same — first we build them, then we pray.",
+        "author": "Sam Redwine"
     }
 ]
