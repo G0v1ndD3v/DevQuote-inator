@@ -230,5 +230,13 @@
     {
         "quote": "Progress is possible only if we train ourselves to think about programs without thinking of them as pieces of executable code.",
         "author": "Edsger W. Dijkstra"
+    },
+    {
+        "quote": "‘git’ can mean anything, depending on your mood. Traditionally, it meant ‘stupid person.’ I’m an egotistical bastard; I name all my projects after myself. First ‘Linux,’ now ‘git.’",
+        "author": "Linus Torvalds"
+    },
+    {
+        "quote": "Before software can be reusable, it first has to be usable.",
+        "author": "Ralph Johnson"
     }
 ]
