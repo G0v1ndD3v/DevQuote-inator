@@ -238,5 +238,17 @@
     {
         "quote": "Before software can be reusable, it first has to be usable.",
         "author": "Ralph Johnson"
+    },
+    {
+        "quote": "The key to building reliable software is to understand that complexity is the enemy.",
+        "author": "Barbara Liskov"
+    },
+    {
+        "quote": "You never need optimal performance, you need good-enough performance.",
+        "author": "Barbara Liskov"
+    },
+    {
+        "quote": "Code that protects the author at the expense of the reader is flawed code.",
+        "author": "Robert C. Martin"
     }
 ]
