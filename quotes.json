@@ -250,5 +250,21 @@
     {
         "quote": "Code that protects the author at the expense of the reader is flawed code.",
         "author": "Robert C. Martin"
+    },
+    {
+        "quote": "Nine people can't make a baby in a month.",
+        "author": "Fred Brooks"
+    },
+    {
+        "quote": "Implementation is the sincerest form of flattery.",
+        "author": "L. Peter Deutsch"
+    },
+    {
+        "quote": "If builders built buildings the way programmers built programs, then the first woodpecker that came along would destroy civilization.",
+        "author": "Gerald Weinberg"
+    },
+    {
+        "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+        "author": "Edsger W. Dijkstra"
     }
 ]
